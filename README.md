@@ -1,0 +1,2 @@
+# ComunidadeCursoPython
+git init
