@@ -7,7 +7,7 @@ Create a Hashtag python course community site.
 
 Posting comments, homepage for post feed, creating users, changing profile image and blocking for non-logged in users.
 
-### Method:
+### Languages:
 
 - Python
     - Flask
