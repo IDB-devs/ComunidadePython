@@ -1,7 +1,7 @@
 # ComunidadeCursoPython
 ### Objective:
 
-Create a Hashtag python course community site.
+Create a website for the hashtag Python course community.
 
 ### Features:
 
